@@ -1,8 +1,8 @@
 
 ## About Me
-Hiya, I'm Tom, a Computer Science & Economics student at Lancaster University.
+Hiya, I'm Tom, a Computer Science & Economics student.
 
-- Incoming Software Engineering Intern @ Financial Times
+- Software Engineer
 - Backyard Historian & Writer
 - Interested in Data Analytics, AI & Computational Finance 
 
